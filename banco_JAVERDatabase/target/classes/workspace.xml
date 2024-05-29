@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b75ecbea-2d3e-4426-926a-8d89377af063" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../../banco_JAVER/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gYoayzdw3oykgYZvLnMyj360x6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BancoApplication.executor": "Run",
+    "Application.DatabaseApplication.executor": "Run",
+    "JUnit.ClienteServiceTeste (1).executor": "Run",
+    "JUnit.ClienteServiceTeste.executor": "Run",
+    "JUnit.ClienteServiceTeste.testCalcularScoreClienteNaoEncontrado.executor": "Run",
+    "JUnit.ClienteServiceTeste.testCalculeteScoreCredito.executor": "Run",
+    "JUnit.ClienteServiceTeste.testCreateCliente.executor": "Run",
+    "JUnit.ClienteServiceTeste.testDeleteCliente.executor": "Run",
+    "JUnit.ClienteServiceTeste.testGetAllCliente.executor": "Run",
+    "JUnit.ClienteServiceTeste.testGetClienteById.executor": "Run",
+    "JUnit.ClienteServiceTeste.testUpdateCliente.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/BrunaPassos/Desktop/banco_JAVERDatabase",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BrunaPassos\Downloads\PracticalsAndCode\End Of Chapter Workspaces\Chapter 02\banco_JAVER\src\main\resources" />
+      <recent name="C:\Users\BrunaPassos\Downloads\PracticalsAndCode\End Of Chapter Workspaces\Chapter 02\banco_JAVER" />
+      <recent name="C:\Users\BrunaPassos\Downloads\PracticalsAndCode\End Of Chapter Workspaces\Chapter 02\banco_JAVER\src\main\java\com\ibm\www\bancoJaver\resourses" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ibm.www.bancoJaver.clienteapp.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseApplication">
+    <configuration name="BancoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibm.www.bancoJaver.clienteapp.application.BancoApplication" />
+      <module name="banco_JAVER" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibm.www.bancoJaver.clienteapp.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibm.www.bancoJaver.application.DatabaseApplication" />
+      <module name="banco_JAVER" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibm.www.bancoJaver.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTeste (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco_JAVER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteServiceTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTeste.testGetAllCliente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco_JAVER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteServiceTeste" />
+      <option name="METHOD_NAME" value="testGetAllCliente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteServiceTeste.testUpdateCliente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco_JAVER" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClienteServiceTeste" />
+      <option name="METHOD_NAME" value="testUpdateCliente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatabaseApplication" />
+        <item itemvalue="JUnit.ClienteServiceTeste (1)" />
+        <item itemvalue="JUnit.ClienteServiceTeste.testUpdateCliente" />
+        <item itemvalue="JUnit.ClienteServiceTeste.testGetAllCliente" />
+        <item itemvalue="Application.BancoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75ecbea-2d3e-4426-926a-8d89377af063" name="Changes" comment="" />
+      <created>1715883941533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715883941533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/banco_JAVER$BancoApplication.ic" NAME="BancoApplication Coverage Results" MODIFIED="1715956549740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.aplicacao1.application.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste_testCreateCliente.ic" NAME="ClienteServiceTeste.testCreateCliente Coverage Results" MODIFIED="1715969995852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste_testGetAllCliente.ic" NAME="ClienteServiceTeste.testGetAllCliente Coverage Results" MODIFIED="1715968736057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste_testGetClienteById.ic" NAME="ClienteServiceTeste.testGetClienteById Coverage Results" MODIFIED="1715968357093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste.ic" NAME="ClienteServiceTeste Coverage Results" MODIFIED="1715966146392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste_testCalculeteScoreCredito.ic" NAME="ClienteServiceTeste.testCalculeteScoreCredito Coverage Results" MODIFIED="1716309663322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/banco_JAVERDatabase$ClienteServiceTeste__1_.ic" NAME="ClienteServiceTeste (1) Coverage Results" MODIFIED="1716755074844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/banco_JAVER$ClienteServiceTeste_testCalcularScoreClienteNaoEncontrado.ic" NAME="ClienteServiceTeste.testCalcularScoreClienteNaoEncontrado Coverage Results" MODIFIED="1716219667987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.ibm.www.bancoJaver.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
